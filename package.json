@@ -18,7 +18,7 @@
     "node-sass": "^4.13.1",
     "python": "^0.0.4",
     "react": "16.2.0",
-    "react-dom": "16.2.0",
+    "react-dom": "16.2.1",
     "reactjs-swiper": "^0.1.0"
   },
   "name": "QuYangDiaoKe",
