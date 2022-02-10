@@ -15,7 +15,7 @@
     "webpack-dev-server": "2.9.7"
   },
   "dependencies": {
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "python": "^0.0.4",
     "react": "16.2.0",
     "react-dom": "16.2.0",
